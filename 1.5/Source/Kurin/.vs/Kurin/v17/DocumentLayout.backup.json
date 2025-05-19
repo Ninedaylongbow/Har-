@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\",
+  "WorkspaceRootPath": "G:\\2326430787\\1.5\\Source\\Kurin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|e:\\steam\\steamapps\\common\\rimworld\\mods\\2326430787\\1.5\\source\\kurin\\pawnrendersubworker_nodraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|solutionrelative:pawnrendersubworker_nodraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|G:\\2326430787\\1.5\\Source\\Kurin\\genstep_battlefoxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|solutionrelative:genstep_battlefoxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|e:\\steam\\steamapps\\common\\rimworld\\mods\\2326430787\\1.5\\source\\kurin\\genstep_republic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|g:\\2326430787\\1.5\\source\\kurin\\genstep_republic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|solutionrelative:genstep_republic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\kurin_pawnutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|solutionrelative:kurin_pawnutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|G:\\2326430787\\1.5\\Source\\Kurin\\kurin_patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|solutionrelative:kurin_patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\genstep_battlefoxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|solutionrelative:genstep_battlefoxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|G:\\2326430787\\1.5\\Source\\Kurin\\kurin_defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|solutionrelative:kurin_defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|G:\\2326430787\\1.5\\Source\\Kurin\\kurin_pawnutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32EB029-BB9A-4558-906F-9BA0558CBC94}|Kurin.csproj|solutionrelative:kurin_pawnutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +30,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PawnRenderSubWorker_NoDraw.cs",
-              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\PawnRenderSubWorker_NoDraw.cs",
-              "RelativeDocumentMoniker": "PawnRenderSubWorker_NoDraw.cs",
-              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\PawnRenderSubWorker_NoDraw.cs*",
-              "RelativeToolTip": "PawnRenderSubWorker_NoDraw.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Kurin_DefOf.cs",
+              "DocumentMoniker": "G:\\2326430787\\1.5\\Source\\Kurin\\Kurin_DefOf.cs",
+              "RelativeDocumentMoniker": "Kurin_DefOf.cs",
+              "ToolTip": "G:\\2326430787\\1.5\\Source\\Kurin\\Kurin_DefOf.cs",
+              "RelativeToolTip": "Kurin_DefOf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:02:28.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T12:50:10.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Kurin_Patches.cs",
+              "DocumentMoniker": "G:\\2326430787\\1.5\\Source\\Kurin\\Kurin_Patches.cs",
+              "RelativeDocumentMoniker": "Kurin_Patches.cs",
+              "ToolTip": "G:\\2326430787\\1.5\\Source\\Kurin\\Kurin_Patches.cs",
+              "RelativeToolTip": "Kurin_Patches.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:46:59.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Kurin_PawnUtility.cs",
-              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\Kurin_PawnUtility.cs",
+              "DocumentMoniker": "G:\\2326430787\\1.5\\Source\\Kurin\\Kurin_PawnUtility.cs",
               "RelativeDocumentMoniker": "Kurin_PawnUtility.cs",
-              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\Kurin_PawnUtility.cs",
+              "ToolTip": "G:\\2326430787\\1.5\\Source\\Kurin\\Kurin_PawnUtility.cs",
               "RelativeToolTip": "Kurin_PawnUtility.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvwwAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T07:34:52.627Z"
             },
@@ -57,26 +84,27 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GenStep_Republic.cs",
-              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\GenStep_Republic.cs",
+              "DocumentMoniker": "G:\\2326430787\\1.5\\Source\\Kurin\\GenStep_Republic.cs",
               "RelativeDocumentMoniker": "GenStep_Republic.cs",
-              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\GenStep_Republic.cs",
+              "ToolTip": "G:\\2326430787\\1.5\\Source\\Kurin\\GenStep_Republic.cs",
               "RelativeToolTip": "GenStep_Republic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T05:15:07.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GenStep_BattleFoxes.cs",
-              "DocumentMoniker": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\GenStep_BattleFoxes.cs",
+              "DocumentMoniker": "G:\\2326430787\\1.5\\Source\\Kurin\\GenStep_BattleFoxes.cs",
               "RelativeDocumentMoniker": "GenStep_BattleFoxes.cs",
-              "ToolTip": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\2326430787\\1.5\\Source\\Kurin\\GenStep_BattleFoxes.cs",
+              "ToolTip": "G:\\2326430787\\1.5\\Source\\Kurin\\GenStep_BattleFoxes.cs",
               "RelativeToolTip": "GenStep_BattleFoxes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:22:38.048Z"
+              "WhenOpened": "2025-05-06T04:22:38.048Z",
+              "EditorCaption": ""
             }
           ]
         }

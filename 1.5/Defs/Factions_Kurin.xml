@@ -231,8 +231,6 @@
           <Kurin_Vigilante>8</Kurin_Vigilante>
           <Kurin_Soldier>12</Kurin_Soldier>
           <Kurin_EliteSoldier>8</Kurin_EliteSoldier>
-          <Kurin_Sniper>4</Kurin_Sniper>
-          <Kurin_EliteSniper_H>2</Kurin_EliteSniper_H>
           <!--<Kurin_Nymph>1</Kurin_Nymph> -->
         </options>
       </li>
@@ -419,7 +417,6 @@
           <Kurin_Vigilante>8</Kurin_Vigilante>
           <Kurin_Soldier>12</Kurin_Soldier>
           <Kurin_EliteSoldier>8</Kurin_EliteSoldier>
-          <Kurin_Sniper>4</Kurin_Sniper>
         </options>
       </li>
     </pawnGroupMakers>
